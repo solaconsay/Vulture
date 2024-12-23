@@ -1,5 +1,5 @@
 # Vulture - Vulnerability Scanner
-Vulture is a Python-based tool that scans your installed applications for vulnerabilities by checking their information against the Common Vulnerabilities and Exposures (CVE) database.
+Vulture is a Python tool that checks the Common Vulnerabilities and Exposures (CVE) database for vulnerabilities in applications installed on your Windows machine.
 
 ## Features
   -Automatic Application Detection: Identifies all installed applications on your system along with their version numbers.
