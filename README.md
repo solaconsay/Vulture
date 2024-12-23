@@ -7,9 +7,9 @@ Vulture is a Python tool that checks the Common Vulnerabilities and Exposures (C
   -  Detailed Reporting: Displays the CVE ID, description, and a link for each detected vulnerability.
 
 ## Prerequisites
-  -Python 3.x
-  -nvdlib library (for CVE database access)
-  -winapps library (for accessing installed applications on Windows)
+  -  Python 3.x
+  -  nvdlib library (for CVE database access)
+  -  winapps library (for accessing installed applications on Windows)
 
 ## Install required libraries with:
 ```cmd
