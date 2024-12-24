@@ -13,7 +13,7 @@ Vulture is a Python tool that checks the Common Vulnerabilities and Exposures (C
 
 ## Install required libraries with:
 ```cmd
-  pip install nvdlib winapps
+  pip3 install nvdlib winapps
 ```
 
 ## Usage
